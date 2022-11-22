@@ -7,7 +7,7 @@ Web & Python Developer
 Born in 1996 and started to learn front-end development in 2012. In 2017, he discovered the wonderful language Python. Currently working as a freelance Python and Front-end developer for government organizations and private companies in Turkey. Improving his knowledge of modern front-end technologies such as React, Redux, Next.js, etc. Learning new languages like Go and Rust.
 
 * 🌍  I'm based in Konya, Turkey
-* 🖥️  See my portfolio at [Personal Wiki](http://furkantaskin.netlify.app)
+* 🖥️  Free Knowledge Base (Still in Development) [Personal Wiki](http://furkantaskin.netlify.app)
 * ✉️  You can contact me at [furkan.taskin@tuta.io](mailto:furkan.taskin@tuta.io)
 * 🧠  I'm learning Django, Rust and Go
 * 🤝  I'm open to collaborating on Web Applications, Python based automation tools, CLI Apps, Cross-Platform GUI Apps
