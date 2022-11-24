@@ -4,15 +4,6 @@ Hi 👋 My name is Furkan Taşkın
 Web & Python Developer
 ----------------------
 
-<style>
-  .library-img{
-  width: 20px;
-  height: 20px;
-  object-fit: contain;
-  object-position: center;
-  margin-right: 3px;
-  }
-</style>
 
 Born in 1996 and started to learn front-end development in 2012. In 2017, he discovered the wonderful language Python. Currently working as a freelance Python and Front-end developer for government organizations and private companies in Turkey. Improving his knowledge of modern front-end technologies such as React, Redux, Next.js, etc. Learning new languages like Go and Rust.
 
