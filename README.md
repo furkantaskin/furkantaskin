@@ -4,6 +4,16 @@ Hi 👋 My name is Furkan Taşkın
 Web & Python Developer
 ----------------------
 
+<style>
+  .library-img{
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  object-position: center;
+  margin-right: 3px;
+  }
+</style>
+
 Born in 1996 and started to learn front-end development in 2012. In 2017, he discovered the wonderful language Python. Currently working as a freelance Python and Front-end developer for government organizations and private companies in Turkey. Improving his knowledge of modern front-end technologies such as React, Redux, Next.js, etc. Learning new languages like Go and Rust.
 
 * 🌍  I'm based in Konya, Turkey
@@ -12,6 +22,13 @@ Born in 1996 and started to learn front-end development in 2012. In 2017, he dis
 * 🧠  I'm learning Django, Rust and Go
 * 🤝  I'm open to collaborating on Web Applications, Python based automation tools, CLI Apps, Cross-Platform GUI Apps
 * ⚡  EDM Fan for more than 7 years. And spends my spare times for Blender, 3ds Max and Unreal Engine to visualize my imagination.
+
+
+### Libraries & Plugins
+* [Three.js](https://threejs.org/)
+* [<img src="https://playwright.dev/python/img/playwright-logo.svg" width="20" height="20"> Playwright](https://playwright.dev)
+* [<img src="https://docusaurus.io/img/docusaurus.ico" width="20" height="20"> Docusaurus](https://docusaurus.io)
+* [<img src="https://wails.io/img/favicon.ico" width="20" height="20"> Wails](https://wails.io)
 
 ### Skills
 
